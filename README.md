@@ -1,4 +1,4 @@
-# hackintosh
+# Hackintosh by Thanh Tung
 This EFI contain Microsoft folder for dual boot running, please remove if you don't need:
 Spec:
 CPU: Core i5 10400
