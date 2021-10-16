@@ -1,5 +1,5 @@
 # Hackintosh by Thanh Tung
-This EFI contain Microsoft folder for dual boot running, please remove if you don't need:
+This EFI contains Microsoft folder for dual boot running, please remove if you don't need:
 
 Spec:
 
