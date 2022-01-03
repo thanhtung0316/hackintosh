@@ -1,7 +1,7 @@
 # Hackintosh by Thanh Tung
 This EFI contains Microsoft folder for dual boot running, please remove if you don't need:
 
-Spec: OC 0.7.3
+Spec: OC 0.7.3 BigSur 11.6
 
 CPU: Core i5 10400
 
